@@ -43,18 +43,18 @@ This script will print classification report for each languages.
 For example:
               precision    recall  f1-score   support
 
-      nepali       1.00      1.00      1.00         7
-    gujarati       1.00      1.00      1.00         3
-      telugu       0.80      1.00      0.89         4
-     english       1.00      1.00      1.00         3
-     punjabi       1.00      1.00      1.00         2
-       hindi       1.00      1.00      1.00         7
-    malyalam       1.00      1.00      1.00         3
-     bengali       1.00      1.00      1.00         8
-     marathi       1.00      0.71      0.83         7
-       tamil       1.00      0.67      0.80         6
+      nepali       1.00      1.00      1.00         10
+    gujarati       1.00      1.00      1.00         10
+      telugu       0.80      1.00      0.89         10
+     english       1.00      1.00      1.00         10
+     punjabi       1.00      1.00      1.00         10
+       hindi       1.00      1.00      1.00         10
+    malyalam       1.00      1.00      1.00         10
+     bengali       1.00      1.00      1.00         10
+     marathi       1.00      0.71      0.83         10
+       tamil       1.00      0.67      0.80         10
        Other       0.00      0.00      0.00         0
 
-    accuracy                           0.92        50
-   macro avg       0.89      0.85      0.87        50
-weighted avg       0.98      0.92      0.94        50
+    accuracy                           0.92        100
+   macro avg       0.89      0.85      0.87        100
+weighted avg       0.98      0.92      0.94        100
