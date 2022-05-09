@@ -43,5 +43,5 @@
 # Example commands:
 
     evaluating the csv file       python inference.py eval models/t5_base_v1.1  -f data/test_data.csv
-    generating single sentence    python inference.py gen models/t5_base_v1.1  -s 'i will go home yesterday.'
+    generating single sentence    python inference.py gen models/t5_base_v1.1  -s 'my name are harshil.'
     generating file               python inference.py gen models/t5_base_v1.1  -f data/test.txt
