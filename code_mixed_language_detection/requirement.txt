@@ -1,9 +1,0 @@
-git+https://github.com/libindic/indic-trans.git
-SentencePiece
-transformers
-tokenizers
-torch
-Cython
-scipy
-progressbar
-sklearn
