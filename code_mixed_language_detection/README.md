@@ -56,5 +56,5 @@ For example:
        Other       0.00      0.00      0.00         0
 
     accuracy                           0.92        100
-   macro avg       0.89      0.85      0.87        100
-weighted avg       0.98      0.92      0.94        100
+    macro avg      0.89      0.85      0.87        100
+    weighted avg   0.98      0.92      0.94        100
